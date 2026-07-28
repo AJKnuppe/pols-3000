@@ -3,18 +3,19 @@
 
 **Fall 2026**
 
-Department of Political Science
+Political Science Program
+School of Social Sciences
+College of Arts & Sciences
 Utah State University
 
 ---
-
-Monday / Wednesday / Friday, 10:30 AM–11:20 AM
-Classroom: [Old Main 119](https://www.usu.edu/map/)
+Tuesday/Thursday, 11:00 AM–12:15 PM
+Classroom: [Albrecht Agricultural Sciences Building, AGRS 137](https://www.usu.edu/map/)
 
 | | |
 |---|---|
 | **Instructor:** Austin J. Knuppe (pronounced *nuh-pee*) | **Office Hours:** M & W, 12:30–1:30 PM |
-| | **Office:** [330C Old Main Hall](https://polisci.osu.edu/contact) |
+| | **Office:** [Mehdi Heravi Global Teaching and Learning Center, 241] |
 | | [austin.knuppe@usu.edu](mailto:austin.knuppe@usu.edu) |
 | | [http://www.austinknuppe.com](http://www.austinknuppe.com) |
 
@@ -146,42 +147,6 @@ In completing the assignments, you are encouraged to interact with your instruct
 ### Late Assignments
 
 **Late assignments will not be accepted, unless a prior extension has been granted by the instructor** (Canvas will not accept assignments after the stated deadline on the relevant due dates). For this reason, you are strongly encouraged to start working on your assignments early, and to attend class and office hours to have questions answered promptly.
-
-### Technical Problems
-
-It is your responsibility to ensure that you can view lecture videos and other material posted to Canvas, and that you can use the Canvas site to take quizzes and exams, submit papers, etc. We cannot troubleshoot technical problems for all of our students, so you should consult the online [Service Desk](https://it.usu.edu/service-desk) or contact their phone number at (435)-797-HELP or email <servicedesk@usu.edu>. If you are having a problem with Canvas, a good first step is to try a different internet browser or computer.
-
-### Academic Integrity
-
-The University expects that students and faculty alike maintain the highest standards of academic honesty. The Code of Policies and Procedures for Students at Utah State University [(Student Conduct)](https://studentconduct.usu.edu/studentcode/) addresses academic integrity and honesty and notes the following:
-
-**Academic Integrity**
-
-> Students have a responsibility to promote academic integrity at the University by not participating in or facilitating others' participation in any act of academic dishonesty and by reporting all violations or suspected violations of the Academic Integrity Standard to their instructors.
-
-**The Honor Pledge**
-
-> To enhance the learning environment at Utah State University and to develop student academic integrity, each student agrees to the following Honor Pledge: "I pledge, on my honor, to conduct myself with the foremost level of academic integrity." Violations of the Academic Integrity Standard (academic violations) include, but are not limited to cheating, falsification, and plagiarism.
-
-**Plagiarism**
-
-> Plagiarism includes knowingly **"representing, by paraphrase or direct quotation, the published or unpublished work of another person as one's own in any academic exercise or activity without full and clear acknowledgment. It also includes using materials prepared by another person or by an agency engaged in the sale of term papers or other academic materials."** The penalties for plagiarism are severe. They include warning or reprimand, grade adjustment, probation, suspension, expulsion, withholding of transcripts, denial or revocation of degrees, and referral to psychological counseling.
-
-### Students with Disabilities
-
-USU welcomes students with disabilities. If you have, or suspect you may have, a physical, mental health, or learning disability that may require accommodations in this course, please contact the [Disability Resource Center (DRC)](https://www.usu.edu/drc) as early in the semester as possible (University Inn #101, 435-797-2444, <drc@usu.edu>). All disability related accommodations must be approved by the DRC. Once approved, the DRC will coordinate with faculty to provide accommodations.
-
-### Mental Health
-
-Mental health is critically important for the success of USU students. As a student, you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduce your ability to participate in daily activities. Utah State University provides free services for students to assist them with addressing these and other concerns. You can learn more about the broad range of confidential mental health services available on campus at [Counseling and Psychological Services (CAPS)](https://aggiewellness.usu.edu).
-
-Students are also encouraged to download the [SafeUT App](https://dps.usu.edu/safeapp) to their smartphones. The SafeUT application is a 24/7 statewide crisis text and tip service that provides real-time crisis intervention to students through texting and a confidential tip program that can help anyone with emotional crises, bullying, relationship problems, mental health, or suicide related issues.
-
-### Sexual Harassment
-
-Utah State University is committed to creating and maintaining an environment free from acts of sexual misconduct and discrimination and to fostering respect and dignity for all members of the USU community. Title IX and [USU Policy 339](https://www.usu.edu/policies/339/) address sexual harassment in the workplace and academic setting.
-
-The university responds promptly upon learning of any form of possible discrimination or sexual misconduct. Any individual may contact USU's [Affirmative Action/Equal Opportunity (AA/EO) Office](https://equity.usu.edu) for available options and resources or clarification. The university has established a complaint procedure to handle all types of discrimination complaints, including sexual harassment ([USU Policy 305](https://www.usu.edu/policies/305/)), and has designated the AA/EO Director/Title IX Coordinator as the official responsible for receiving and investigating complaints of sexual harassment.
 
 ## Course Schedule
 
