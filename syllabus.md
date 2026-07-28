@@ -16,7 +16,7 @@ Classroom: [Albrecht Agricultural Sciences Building, AGRS 137](https://www.usu.e
 
 **Instructor:** Austin J. Knuppe (pronounced *nuh-pee*)
 
-- **Office Hours:** M & W, 12:30–1:30 PM
+- **Drop-In Hours:** M & W, 4--5 PM (Zoom or In-Person)
 - **Office:** Mehdi Heravi Global Teaching and Learning Center, 241
 - **Email:** [austin.knuppe@usu.edu](mailto:austin.knuppe@usu.edu)
 - **Website:** [austinknuppe.com](http://www.austinknuppe.com)
