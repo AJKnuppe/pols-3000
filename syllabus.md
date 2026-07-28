@@ -167,4 +167,4 @@ In completing the assignments, you are encouraged to interact with your instruct
 | Nov 23 – 29| Uncertainty: Estimation | Chapter 7 (Sec. 7.1)<br>Programming Tutorial 13<br>Quiz 13<br>Lab 13<br>**Problem Set 4** (due 4/14/23 by 11:59 PM) |
 | Nov 30 – Dec 6 | Uncertainty: Hypothesis Testing | Chapter 7 (Sec. 7.2)<br>Programming Tutorial 14<br>Lab 14<br>**Final Examination** (4/21/23 by 11:59 PM) |
 | Dec 7 – 12| Uncertainty: Linear Regression<br>*[No Class on 4/26 or 4/28]* | Chapter 7 (Sec. 7.3)<br> |
-| Dec 12 - 19 | **Group Projects** due by 11:59 PM on 12/17/26 |
+| Dec 12 - 19 | Finals Week | **Group Projects** due by 11:59 PM on 12/17/26 |
