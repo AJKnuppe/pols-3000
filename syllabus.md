@@ -124,7 +124,7 @@ There will be a final group project due during the final exams week. Students wi
 
 ### Extra Credit
 
-Students often find themselves a percentage point or two shy from their desired final grade (e.g., a 89% but they want to earn an A- for their final grade). To address these concerns—and mitigate any panicked emails at the end of the semester—I offer an optional extra credit points on each weekly quiz, problem set, or examination. In total, these extra-credit points can boost a student's final grade **<u>up to 1% point</u>**.
+No extra credit opportunities are available for POLS 3000.
 
 ## Course Policies
 
@@ -146,7 +146,7 @@ In completing the assignments, you are encouraged to interact with your instruct
 
 ### Late Assignments
 
-**Late assignments will not be accepted, unless a prior extension has been granted by the instructor** (Canvas will not accept assignments after the stated deadline on the relevant due dates). For this reason, you are strongly encouraged to start working on your assignments early, and to attend class and office hours to have questions answered promptly.
+Assignments are due at the date and time posted. Late work will be accepted up to 48 hours after the deadline, with a **1% deduction per hour** late, capped at a **minimum possible score of 50%**. Work submitted after 48 hours will not be accepted without prior approval for an extension. 
 
 ## Course Schedule
 
