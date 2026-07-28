@@ -1,23 +1,25 @@
 # Political Science (POLS) 3000
+
 ## Introduction to Political Research
 
 **Fall 2026**
 
-Political Science Program
-School of Social Sciences
-College of Arts & Sciences
+Political Science Program  
+School of Social Sciences  
+College of Arts & Sciences  
 Utah State University
 
 ---
-Tuesday/Thursday, 11:00 AM–12:15 PM
+
+Tuesday/Thursday, 11:00 AM–12:15 PM  
 Classroom: [Albrecht Agricultural Sciences Building, AGRS 137](https://www.usu.edu/map/)
 
-| | |
-|---|---|
-| **Instructor:** Austin J. Knuppe (pronounced *nuh-pee*) | **Office Hours:** M & W, 12:30–1:30 PM |
-| | **Office:** [Mehdi Heravi Global Teaching and Learning Center, 241] |
-| | [austin.knuppe@usu.edu](mailto:austin.knuppe@usu.edu) |
-| | [http://www.austinknuppe.com](http://www.austinknuppe.com) |
+**Instructor:** Austin J. Knuppe (pronounced *nuh-pee*)
+
+- **Office Hours:** M & W, 12:30–1:30 PM
+- **Office:** Mehdi Heravi Global Teaching and Learning Center, 241
+- **Email:** [austin.knuppe@usu.edu](mailto:austin.knuppe@usu.edu)
+- **Website:** [austinknuppe.com](http://www.austinknuppe.com)
 
 ---
 
