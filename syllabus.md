@@ -75,11 +75,10 @@ Students are expected to attend every lecture, to complete all of the required r
 | Component | Weight |
 |---|---|
 | Class Attendance & Participation | 10% |
-| Weekly Quizzes | 15% |
-| Programming Tutorials | 15% |
-| Problem Sets | 20% |
-| Group Project | 15% |
-| Take-Home Examinations | 25% |
+| Problem Sets | 30% |
+| Exam 1 | 15% |
+| Exam 2 | 20% |
+| Exam 3 | 25% |
 
 ### Class Attendance & Participation (10%)
 
@@ -92,35 +91,19 @@ Second, outside of class, **students are expected to post their questions, comme
 - ask/answer 1 substantive question during the in-person Wed class meeting during that week, **or**
 - ask/answer any 2 questions for that week via the Canvas discussion board for that week
 
-### Weekly Quizzes (15%)
+### Eight Problem Sets (30%)
 
-Quizzes are activities based on assigned readings or lecture material; they are designed to help you evaluate how well you have understood the reading and/or the lecture. Each quiz is worth 10 points. Quizzes will remain available for a 24-hour period. The quizzes are open-book and open-note but no collaboration between students is permitted. Once you begin the quiz, you will have a limited amount of time to complete it (normally 20 minutes), so you should prepare as if you were taking an in-class quiz.
-
-**Students will be allowed <u>two</u> attempts to complete each quiz. I will drop the lowest quiz grade from students' final grade.**
-
-### Programming Tutorials (15%)
-
-There will be twelve weekly programming assignments. They will be graded as pass/fail, i.e., every submitted Swirl exercise will count as 10 points, while every missed exercise will receive 0 points.
-
-**Collaboration is permitted and encouraged.** These assignments are directly based on the textbook and are designed to check whether you understood the material covered in the textbook.
-
-### Problem Sets (20%)
-
-There will be four problem sets during the semester. The problem sets provide an opportunity for students to conduct data analysis and learn important statistical concepts. Each submitted problem set will be graded as unsatisfactory (25 points), satisfactory (45 points), or excellent (60 points).
+There will be eight problem sets during the semester. The problem sets provide an opportunity for students to conduct data analysis and learn important statistical concepts. Each submitted problem set will be graded as unsatisfactory, satisfactory, or excellent.
 
 **Collaboration is permitted, but students must write up the code and answers on their own. Please note that copying someone else's code is plagiarism.** You are encouraged to work in groups to reach an understanding of how to solve a problem but the code that you submit within the problem set must be your own.
 
-### Take-Home Examinations (25%)
+### Three Examinations (25%)
 
 Students will complete an online midterm and final examination. Both examinations are open-note and will be submitted electronically to Canvas at the designated date and time. Students can access notes, readings, and other materials **but they must work <u>independently</u>.**
 
 Collaboration is permitted, but students must write up the code and answers on their own. Please note that copying someone else's code is plagiarism. You are encouraged to work in groups to reach an understanding of how to solve a problem but the code that you submit within the problem set must be your own.
 
 **The instructor will provide a brief study guide for both examinations approximately one week before the exam date.**
-
-### Final Group Project (15%)
-
-There will be a final group project due during the final exams week. Students will collaborate to analyze a data set of interest and report findings in a short memo. The details will be announced later during the semester.
 
 ### Extra Credit
 
@@ -134,7 +117,7 @@ No extra credit opportunities are available for POLS 3000.
 
 **In the event of excessive absences, grade penalties will be applied.** [According to the USU General Catalog](https://catalog.usu.edu/content.php?catoid=35&navoid=26321), "Excused absences may not exceed 20% of the class meetings." Students with excessive absences will receive penalties on their final average. Students whose attendance is below 80% will be subject to letter-grade deductions, ranging from partial to full penalties depending on the number of absences. Students whose attendance is at or below 60% are at risk for failing the course.
 
-### Communication and Office Hours
+### Communication and Drop-In Hours
 
 I primarily use emails and announcements on Canvas to communicate with students. Please check Canvas frequently throughout the semester.
 
